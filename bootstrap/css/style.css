@@ -1,0 +1,39 @@
+/*.table th {
+	font-weight: normal;
+	border: 2px solid #ccc !important;
+	border-right: none !important;
+	border-left: none !important;
+}*/
+.search {
+	border: none !important;
+	border-radius: 0px !important;
+	box-shadow: none !important;
+	font-size: 20px !important;
+	margin-bottom: 5px !important;
+	line-height: 25px !important;
+}
+.dataTables_info {
+	font-size: 12px;
+	float: right;
+}
+
+.datepicker-days 
+
+.datepicker-days td.day {
+	text-align: center;
+	margin: 0 3px;
+}
+.datepicker-days td.day.old,. datepicker-days td.day.new {
+	color: #ccc;
+}
+
+.datepicker-days td.day:hover {
+	background: rgb(35, 221, 176);
+	border-radius: 5px;
+	text-align: center;
+	cursor: pointer;
+	color: #fff;
+}
+.datepicker-days td.day:active {
+	background: #95d171;
+}
